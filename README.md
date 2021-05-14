@@ -2,7 +2,7 @@
 This repository present different examples of simple python jupyter notebooks.
 
 You can review quickly online the example notebook by clicking on the following link:
-https://colab.research.google.com/github/HakaiInstitute/hakai-jupyter-notebook-examples/blob/main/hakai-ctd-profile-survey.ipynb
+https://colab.research.google.com/github/HakaiInstitute/hakai-jupyter-notebook-examples/blob/main/hakai_qu39_ctd_profil_example.ipynb
 
 # How to get started
 You can easily get started right away by using directly [Google Colab](https://colab.research.google.com/) which is giving you access to a remote server computer with preinstalled lot of the most usefull python packages. You can always install other packages available either on Github or the pip python package manager.
