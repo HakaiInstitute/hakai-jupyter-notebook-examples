@@ -1,4 +1,4 @@
-# jupyter-notebook-examples
+# hakai-jupyter-notebook-examples
 This repository present different examples of simple python jupyter notebooks.
 
 # How to get started
