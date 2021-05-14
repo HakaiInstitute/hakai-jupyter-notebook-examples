@@ -17,8 +17,8 @@ or
 pip install jupyter
 ```
 
-## Get Started Finally
-Simply type in 
+## Finally
+Simply type in your conda or python shell
 ```python
 jupyter notebook
 ```
