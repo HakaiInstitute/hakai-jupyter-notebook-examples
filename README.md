@@ -19,9 +19,10 @@ From Jupyter notebook [website](https://jupyter-notebook.readthedocs.io/en/stabl
 > - Video
 
 **Jupyter Notebooks are great for:**
-* analysing data
-* producing plots
-* sharing data analysis
+* Data analysis
+* Producing plots
+* Sharing data analysis
+* Creating a simple interface
 
 **Jupyter Notebooks are not good for:**
 * Developing new tools/packages
