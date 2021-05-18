@@ -4,6 +4,8 @@ This repository present different examples of simple python jupyter notebooks.
 You can review quickly online the example notebook by clicking on the following link:
 https://colab.research.google.com/github/HakaiInstitute/hakai-jupyter-notebook-examples/blob/main/hakai_qu39_ctd_profil_example.ipynb
 
+Feel free to ask for some specific examples! An just start an issue.
+
 # What's for
 From Jupyter notebook [website](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/What%20is%20the%20Jupyter%20Notebook.html#Introduction):
 
