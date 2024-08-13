@@ -1,4 +1,6 @@
+⚠️ Deprecated see https://github.com/HakaiInstitute/hakai-oceanography-data-demo 
 # hakai-jupyter-notebook-examples
+
 This repository present different examples of simple python jupyter notebooks.
 
 You can review quickly online the example notebook by clicking on the following link:
